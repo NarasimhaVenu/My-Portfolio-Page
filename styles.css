@@ -133,6 +133,19 @@ ul li a:hover {
   margin-bottom: 2rem;
 }
 
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.social-icons a {
+  color: var(--primary-color);
+  font-size: 10rem; 
+  margin: 0 0.5rem;
+}
+
 /* Rest of the existing styles for buttons */
 .action__btns button {
   font-size: 1rem;
