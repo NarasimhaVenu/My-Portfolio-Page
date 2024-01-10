@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
-  --primary-color: #1349a7;
-  --primary-color-dark: #4985d9;
+  --primary-color: #a855f7;
+  --primary-color-dark: #9333ea;
   --secondary-color: #ca8a04;
   --text-dark: #1f2937;
   --text-light: #6b7280;
@@ -29,7 +29,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #cdb4b4;
+  background-color: #ffffff;
   z-index: 99;
 }
 
